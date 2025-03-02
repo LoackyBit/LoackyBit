@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hello! I'm Lod34.</h2>
+<h2 align="center">👋 Hi there, I'm Lod34.</h2>
 
 <table width="100%" align="center">
   <tr>
