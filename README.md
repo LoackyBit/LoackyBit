@@ -15,61 +15,90 @@
     </td>
   </tr>
 
-  <!-- Riga 3: Streak -->
+  <!-- Riga 3: Ranking -->
   <tr>
-    <td colspan="2" align="center">
-      <a href="https://github.com/Lod34">
-        <img src="https://github-readme-stats.vercel.app/api?username=Lod34&theme=radical&hide_border=false&include_all_commits=true&count_private=true" 
-             style="width: 100%; max-width: 600px; height: auto;" 
-             alt="Streak">
-      </a>
-    </td>
+    <td colspan="2" align="center"> <a href="https://github.com/Lod34">
+        <picture>
+        <source
+          srcset="https://github-readme-stats.vercel.app/api?username=Lod34&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&number_format=long&bg_color=00000000&theme=dark"
+          media="(prefers-color-scheme: dark)" />
+        <source
+          srcset="https://github-readme-stats.vercel.app/api?username=Lod34&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&number_format=long&bg_color=fffffff"
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Lod34&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&number_format=long"
+        height="100%" />
+      </picture>
+    </a></td>
   </tr>
 
-  <!-- Riga 4: Ranking e Most used languages -->
+  <!-- Riga 4: Streak e Most used languages -->
   <tr>
-    <td style="width: 50%;" align="center">
-      <a href="https://github.com/Lod34">
-        <img src="https://nirzak-streak-stats.vercel.app/?user=Lod34&theme=radical&hide_border=false" 
-             style="width: 100%; max-width: 500px; height: auto;" 
-             alt="Ranking">
-      </a>
-    </td>
-    <td style="width: 50%;" align="center">
-      <a href="https://github.com/Lod34">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lod34&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" 
-             style="width: 100%; max-width: 500px; height: auto;" 
-             alt="Most used languages">
-      </a>
-    </td>
+    <td style="width: 50%;" align="center"><a href="https://github.com/Lod34">
+        <picture>
+        <source
+          srcset="https://nirzak-streak-stats.vercel.app?user=Lod34&theme=dark&hide_border=true&border_radius=&mode=weekly"
+          media="(prefers-color-scheme: dark)" />
+        <source
+          srcset="https://nirzak-streak-stats.vercel.app?user=Lod34&theme=light&hide_border=true&border_radius=&mode=weekly"
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+        <img src="https://nirzak-streak-stats.vercel.app?user=Lod34&theme=transparent&hide_border=true&border_radius=&mode=weekly" 
+        height="100%" />
+        </picture>
+    </a></td>
+    <td style="width: 50%;" align="center"><a href="https://github.com/Lod34">
+        <picture>
+        <source
+          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Lod34&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact"
+          media="(prefers-color-scheme: dark)" />
+        <source
+          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Lod34&theme=light&hide_border=true&include_all_commits=true&count_private=true&layout=compact"
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lod34&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" 
+        height="100%" />
+        </picture>
+    </a></td>
   </tr>
 
   <!-- Riga 5: Trophies -->
   <tr>
-    <td colspan="2" align="center">
-      <a href="https://github.com/Lod34">
-        <img src="https://github-profile-trophy.vercel.app/?username=Lod34&theme=radical&no-frame=false&no-bg=false&margin-w=4" 
-             style="width: 100%; max-width: 700px; height: auto;" 
-             alt="Trophies">
-      </a>
-    </td>
+    <td colspan="6" align="center"><a href="https://github.com/ryo-ma/github-profile-trophy">
+      <picture>
+        <source
+          srcset="https://github-profile-trophy.vercel.app/?username=Lod34&column=7&row=1&margin-w=8&no-bg=true&no-frame=true&theme=onedark"
+          media="(prefers-color-scheme: dark)" />
+        <source
+          srcset="https://github-profile-trophy.vercel.app/?username=Lod34&column=7&row=1&margin-w=8&no-bg=false&no-frame=true"
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+        <img src="https://github-profile-trophy.vercel.app/?username=Lod34&column=7&row=1&margin-w=8&no-bg=true&no-frame=true" width="100%" />
+      </picture>
+    </a></td>
   </tr>
 
   <!-- Riga 6: Top contributed Repos e Random Quote -->
   <tr>
-    <td style="width: 50%;" align="center">
-      <a href="https://github.com/Lod34">
+    <td style="width: 50%;" align="center"><a href="https://github.com/Lod34">
+        <picture>
+        <source
+          srcset="https://github-contributor-stats.vercel.app/api?username=Lod34&limit=5&theme=dark&combine_all_yearly_contributions=true"
+          media="(prefers-color-scheme: dark)" />
+        <source
+          srcset="https://github-contributor-stats.vercel.app/api?username=Lod34&limit=5&theme=light&combine_all_yearly_contributions=true"
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
         <img src="https://github-contributor-stats.vercel.app/api?username=Lod34&limit=5&theme=radical&combine_all_yearly_contributions=true" 
-             style="width: 100%; max-width: 500px; height: auto;" 
-             alt="Top contributed Repos">
-      </a>
-    </td>
-    <td style="width: 50%;" align="center">
-      <a href="https://github.com/Lod34">
-        <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical" 
-             style="width: 100%; max-width: 500px; height: auto;" 
-             alt="Random Quote">
-      </a>
-    </td>
+        width="100%"
+        />
+        </picture>
+    </a></td>
+    <td style="width: 50%;" align="center"><a href="https://github.com/Lod34">
+        <picture>
+        <source
+          srcset="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical"
+          media="(prefers-color-scheme: dark)" />
+        <source
+          srcset="https://quotes-github-readme.vercel.app/api?type=vertical&theme=light"
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" width="80%" />
+        </picture>
+    </a></td>
   </tr>
 </table>
