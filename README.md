@@ -92,12 +92,12 @@
     <td align="center"><a href="https://github.com/Lod34">
         <picture>
         <source
-          srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"
+          srcset="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical"
           media="(prefers-color-scheme: dark)" />
         <source
-          srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light"
+          srcset="https://quotes-github-readme.vercel.app/api?type=vertical&theme=light"
           media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light"
+        <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=light"
         width="100%" />
         </picture>
     </a></td>
