@@ -20,41 +20,41 @@
     <td colspan="2" align="center"> <a href="https://github.com/Lod34">
         <picture>
         <source
-          srcset="https://github-readme-stats.vercel.app/api?username=Lod34&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&number_format=long&bg_color=00000000&theme=dark"
+          srcset="https://github-readme-stats.vercel.app/api?username=Lod34&show_icons=true&hide_border=true&count_private=true&include_all_commits=false&number_format=long&theme=transparent"
           media="(prefers-color-scheme: dark)" />
         <source
-          srcset="https://github-readme-stats.vercel.app/api?username=Lod34&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&number_format=long&bg_color=fffffff"
+          srcset="https://github-readme-stats.vercel.app/api?username=Lod34&show_icons=true&hide_border=true&count_private=true&include_all_commits=false&number_format=long&theme=transparent"
           media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-        <img src="https://github-readme-stats.vercel.app/api?username=Lod34&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&number_format=long"
-        height="100%" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Lod34&show_icons=true&hide_border=true&count_private=true&include_all_commits=false&number_format=long&theme=transparent"
+        width="100%" />
       </picture>
     </a></td>
   </tr>
 
   <!-- Riga 4: Streak e Most used languages -->
   <tr>
-    <td style="width: 50%;" align="center"><a href="https://github.com/Lod34">
+    <td style="width: 100%;" align="center"><a href="https://github.com/Lod34">
         <picture>
         <source
           srcset="https://nirzak-streak-stats.vercel.app?user=Lod34&theme=dark&hide_border=true&border_radius=&mode=weekly"
           media="(prefers-color-scheme: dark)" />
         <source
-          srcset="https://nirzak-streak-stats.vercel.app?user=Lod34&theme=light&hide_border=true&border_radius=&mode=weekly"
+          srcset="https://nirzak-streak-stats.vercel.app?user=Lod34&theme=transparent&hide_border=true&border_radius=&mode=weekly"
           media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
         <img src="https://nirzak-streak-stats.vercel.app?user=Lod34&theme=transparent&hide_border=true&border_radius=&mode=weekly" 
-        height="100%" />
+        width="100%" />
         </picture>
     </a></td>
-    <td style="width: 50%;" align="center"><a href="https://github.com/Lod34">
+    <td style="width: 0%" align="center"><a href="https://github.com/Lod34">
         <picture>
         <source
           srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Lod34&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact"
           media="(prefers-color-scheme: dark)" />
         <source
-          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Lod34&theme=light&hide_border=true&include_all_commits=true&count_private=true&layout=compact"
+          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Lod34&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact"
           media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lod34&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" 
-        height="100%" />
+        />
         </picture>
     </a></td>
   </tr>
@@ -67,7 +67,7 @@
           srcset="https://github-profile-trophy.vercel.app/?username=Lod34&column=7&row=1&margin-w=8&no-bg=true&no-frame=true&theme=onedark"
           media="(prefers-color-scheme: dark)" />
         <source
-          srcset="https://github-profile-trophy.vercel.app/?username=Lod34&column=7&row=1&margin-w=8&no-bg=false&no-frame=true"
+          srcset="https://github-profile-trophy.vercel.app/?username=Lod34&column=7&row=1&margin-w=8&no-bg=true&no-frame=true"
           media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
         <img src="https://github-profile-trophy.vercel.app/?username=Lod34&column=7&row=1&margin-w=8&no-bg=true&no-frame=true" width="100%" />
       </picture>
@@ -82,22 +82,22 @@
           srcset="https://github-contributor-stats.vercel.app/api?username=Lod34&limit=5&theme=dark&combine_all_yearly_contributions=true"
           media="(prefers-color-scheme: dark)" />
         <source
-          srcset="https://github-contributor-stats.vercel.app/api?username=Lod34&limit=5&theme=light&combine_all_yearly_contributions=true"
+          srcset="https://github-contributor-stats.vercel.app/api?username=Lod34&limit=5&theme=transparent&combine_all_yearly_contributions=true&hide_border=true"
           media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-        <img src="https://github-contributor-stats.vercel.app/api?username=Lod34&limit=5&theme=radical&combine_all_yearly_contributions=true" 
-        width="100%"
-        />
+        <img src="https://github-contributor-stats.vercel.app/api?username=Lod34&limit=5&theme=transparent&combine_all_yearly_contributions=true&hide_border=true" 
+        width="100%" />
         </picture>
     </a></td>
-    <td style="width: 50%;" align="center"><a href="https://github.com/Lod34">
+    <td align="center"><a href="https://github.com/Lod34">
         <picture>
         <source
-          srcset="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical"
+          srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"
           media="(prefers-color-scheme: dark)" />
         <source
-          srcset="https://quotes-github-readme.vercel.app/api?type=vertical&theme=light"
+          srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light"
           media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" width="80%" />
+        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light"
+        width="100%" />
         </picture>
     </a></td>
   </tr>
