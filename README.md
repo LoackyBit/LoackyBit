@@ -19,7 +19,7 @@
   <tr>
     <td colspan="2" align="center">
       <a href="https://github.com/Lod34">
-        <img src="https://nirzak-streak-stats.vercel.app/?user=Lod34&theme=radical&hide_border=false" 
+        <img src="https://github-readme-stats.vercel.app/api?username=Lod34&theme=radical&hide_border=false&include_all_commits=true&count_private=true" 
              style="width: 100%; max-width: 600px; height: auto;" 
              alt="Streak">
       </a>
@@ -30,7 +30,7 @@
   <tr>
     <td style="width: 50%;" align="center">
       <a href="https://github.com/Lod34">
-        <img src="https://github-readme-stats.vercel.app/api?username=Lod34&theme=radical&hide_border=false&include_all_commits=true&count_private=true" 
+        <img src="https://nirzak-streak-stats.vercel.app/?user=Lod34&theme=radical&hide_border=false" 
              style="width: 100%; max-width: 500px; height: auto;" 
              alt="Ranking">
       </a>
