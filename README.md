@@ -37,24 +37,24 @@
     <td style="wid: 100%;" align="center"><a href="https://github.com/Lod34">
         <picture>
         <source
-          srcset="https://nirzak-streak-stats.vercel.app?user=Lod34&theme=dark&hide_border=true&border_radius=&mode=weekly"
+          srcset="https://nirzak-streak-stats.vercel.app?user=Lod34&theme=transparent&hide_border=true&mode=weekly&background=00000000)"
           media="(prefers-color-scheme: dark)" />
         <source
-          srcset="https://nirzak-streak-stats.vercel.app?user=Lod34&theme=transparent&hide_border=true&border_radius=&mode=weekly"
+          srcset="https://nirzak-streak-stats.vercel.app?user=Lod34&theme=transparent&hide_border=true&mode=weekly&background=00000000)"
           media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-        <img src="https://nirzak-streak-stats.vercel.app?user=Lod34&theme=transparent&hide_border=true&border_radius=&mode=weekly" 
+        <img src="https://nirzak-streak-stats.vercel.app?user=Lod34&theme=transparent&hide_border=true&mode=weekly&background=00000000)" 
         width="100%" />
         </picture>
     </a></td>
     <td style="width: 50%" align="center"><a href="https://github.com/Lod34">
         <picture>
         <source
-          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Lod34&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact"
+          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Lod34&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact"
           media="(prefers-color-scheme: dark)" />
         <source
           srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Lod34&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact"
           media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lod34&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" 
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lod34&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact" 
         width="100%" />
         </picture>
     </a></td>
@@ -65,10 +65,10 @@
     <td colspan="6" align="center"><a href="https://github.com/ryo-ma/github-profile-trophy">
       <picture>
         <source
-          srcset="https://github-profile-trophy.vercel.app/?username=Lod34&column=7&row=1&margin-w=8&no-bg=true&no-frame=true&theme=onedark"
+          srcset="https://github-profile-trophy.vercel.app/?username=Lod34&column=7&row=1&margin-w=8&no-bg=true&no-frame=true&theme=onestar"
           media="(prefers-color-scheme: dark)" />
         <source
-          srcset="https://github-profile-trophy.vercel.app/?username=Lod34&column=7&row=1&margin-w=8&no-bg=true&no-frame=true"
+          srcset="https://github-profile-trophy.vercel.app/?username=Lod34&column=7&row=1&margin-w=8&no-bg=true&no-frame=true&theme=transparent"
           media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
         <img src="https://github-profile-trophy.vercel.app/?username=Lod34&column=7&row=1&margin-w=8&no-bg=true&no-frame=true" width="100%" />
       </picture>
@@ -80,7 +80,7 @@
     <td style="width: 50%;" align="center"><a href="https://github.com/Lod34">
         <picture>
         <source
-          srcset="https://github-contributor-stats.vercel.app/api?username=Lod34&limit=5&theme=dark&combine_all_yearly_contributions=true"
+          srcset="https://github-contributor-stats.vercel.app/api?username=Lod34&limit=5&theme=transparent&hide_border=true&combine_all_yearly_contributions=true"
           media="(prefers-color-scheme: dark)" />
         <source
           srcset="https://github-contributor-stats.vercel.app/api?username=Lod34&limit=5&theme=transparent&combine_all_yearly_contributions=true&hide_border=true"
@@ -92,12 +92,12 @@
     <td align="center"><a href="https://github.com/Lod34">
         <picture>
         <source
-          srcset="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical"
+          srcset="https://github-readme-quotes-git-master-lod34s-projects.vercel.app/api?type=vertical&theme=transparent&border=true"
           media="(prefers-color-scheme: dark)" />
         <source
-          srcset="https://quotes-github-readme.vercel.app/api?type=vertical&theme=light"
+          srcset="https://github-readme-quotes-git-master-lod34s-projects.vercel.app/api?type=vertical&theme=light&border=true"
           media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-        <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=light"
+        <img src="https://github-readme-quotes-git-master-lod34s-projects.vercel.app/api?type=vertical&theme=transparent&border=true"
         width="100%" />
         </picture>
     </a></td>
