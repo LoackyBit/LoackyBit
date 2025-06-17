@@ -9,10 +9,10 @@
     </td>
   </tr>
 
-  <!-- Riga 2: Hi there, I'm Lod34. -->
+  <!-- Riga 2: Hi there, I'm Loacky. -->
   <tr>
     <td colspan="2">
-      <h2 align="center">👋 Hi there, I'm Lod34.</h2>
+      <h2 align="center">👋 Hi there, I'm Loacky.</h2>
     </td>
   </tr>
 
@@ -92,12 +92,12 @@
     <td align="center"><a href="https://github.com/LoackyBit">
         <picture>
         <source
-          srcset="https://github-readme-quotes-git-master-lod34s-projects.vercel.app/api?type=vertical&theme=transparent&border=true"
+          srcset="https://github-readme-quotes-git-master-Loackys-projects.vercel.app/api?type=vertical&theme=transparent&border=true"
           media="(prefers-color-scheme: dark)" />
         <source
-          srcset="https://github-readme-quotes-git-master-lod34s-projects.vercel.app/api?type=vertical&theme=light&border=true"
+          srcset="https://github-readme-quotes-git-master-Loackys-projects.vercel.app/api?type=vertical&theme=light&border=true"
           media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-        <img src="https://github-readme-quotes-git-master-lod34s-projects.vercel.app/api?type=vertical&theme=transparent&border=true"
+        <img src="https://github-readme-quotes-git-master-Loackys-projects.vercel.app/api?type=vertical&theme=transparent&border=true"
         width="100%" />
         </picture>
     </a></td>
