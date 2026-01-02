@@ -21,12 +21,12 @@
     <td colspan="2" align="center"> <a href="https://github.com/LoackyBit">
         <picture>
         <source
-          srcset="https://github-readme-stats.vercel.app/api?username=LoackyBit&show_icons=true&hide_border=true&count_private=true&include_all_commits=false&number_format=long&theme=transparent"
+          srcset="https://github-readme-stats-five-eta-29.vercel.app/api?username=LoackyBit&show_icons=true&hide_border=true&count_private=true&include_all_commits=false&number_format=long&theme=transparent"
           media="(prefers-color-scheme: dark)" />
         <source
-          srcset="https://github-readme-stats.vercel.app/api?username=LoackyBit&show_icons=true&hide_border=true&count_private=true&include_all_commits=false&number_format=long&theme=transparent"
+          srcset="https://github-readme-stats-five-eta-29.vercel.app/api?username=LoackyBit&show_icons=true&hide_border=true&count_private=true&include_all_commits=false&number_format=long&theme=transparent"
           media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-        <img src="https://github-readme-stats.vercel.app/api?username=LoackyBit&show_icons=true&hide_border=true&count_private=true&include_all_commits=false&number_format=long&theme=transparent"
+        <img src="https://github-readme-stats-five-eta-29.vercel.app/api?username=LoackyBit&show_icons=true&hide_border=true&count_private=true&include_all_commits=false&number_format=long&theme=transparent"
         width="100%" />
       </picture>
     </a></td>
@@ -49,10 +49,10 @@
     <td style="width: 50%" align="center"><a href="https://github.com/LoackyBit">
         <picture>
         <source
-          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=LoackyBit&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact"
+          srcset="https://github-readme-stats-five-eta-29.vercel.app/api/top-langs/?username=LoackyBit&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact"
           media="(prefers-color-scheme: dark)" />
         <source
-          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=LoackyBit&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact"
+          srcset="https://github-readme-stats-five-eta-29.vercel.app/api/top-langs/?username=LoackyBit&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact"
           media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoackyBit&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact" 
         width="100%" />
@@ -68,7 +68,7 @@
           srcset="https://github-profile-trophy.vercel.app/?username=LoackyBit&column=7&row=1&margin-w=8&no-bg=true&no-frame=true&theme=onestar"
           media="(prefers-color-scheme: dark)" />
         <source
-          srcset="https://github-profile-trophy.vercel.app/?username=LoackyBit&column=7&row=1&margin-w=8&no-bg=true&no-frame=true&theme=transparent"
+          srcset="github-profile-trophy-three-mu.vercel.app/?username=LoackyBit&column=7&row=1&margin-w=8&no-bg=true&no-frame=true&theme=transparent"
           media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
         <img src="https://github-profile-trophy.vercel.app/?username=LoackyBit&column=7&row=1&margin-w=8&no-bg=true&no-frame=true" width="100%" />
       </picture>
