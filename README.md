@@ -68,7 +68,7 @@
           srcset="https://github-profile-trophy.vercel.app/?username=LoackyBit&column=7&row=1&margin-w=8&no-bg=true&no-frame=true&theme=onestar"
           media="(prefers-color-scheme: dark)" />
         <source
-          srcset="github-profile-trophy-three-mu.vercel.app/?username=LoackyBit&column=7&row=1&margin-w=8&no-bg=true&no-frame=true&theme=transparent"
+          srcset="https://github-profile-trophy-three-mu.vercel.app/?username=LoackyBit&column=7&row=1&margin-w=8&no-bg=true&no-frame=true&theme=transparent"
           media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
         <img src="https://github-profile-trophy.vercel.app/?username=LoackyBit&column=7&row=1&margin-w=8&no-bg=true&no-frame=true" width="100%" />
       </picture>
@@ -80,12 +80,12 @@
     <td style="width: 50%;" align="center"><a href="https://github.com/LoackyBit">
         <picture>
         <source
-          srcset="https://github-contributor-stats.vercel.app/api?username=LoackyBit&limit=5&theme=transparent&hide_border=true&combine_all_yearly_contributions=true"
+          srcset="https://github-repository-contribution-stat-eight.vercel.app/api?username=LoackyBit&limit=5&theme=transparent&hide_border=true&combine_all_yearly_contributions=true"
           media="(prefers-color-scheme: dark)" />
         <source
-          srcset="https://github-contributor-stats.vercel.app/api?username=LoackyBit&limit=5&theme=transparent&combine_all_yearly_contributions=true&hide_border=true"
+          srcset="https://github-repository-contribution-stat-eight.vercel.app/api?username=LoackyBit&limit=5&theme=transparent&combine_all_yearly_contributions=true&hide_border=true"
           media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-        <img src="https://github-contributor-stats.vercel.app/api?username=LoackyBit&limit=5&theme=transparent&combine_all_yearly_contributions=true&hide_border=true" 
+        <img src="https://github-repository-contribution-stat-eight.vercel.app/api?username=LoackyBit&limit=5&theme=transparent&combine_all_yearly_contributions=true&hide_border=true" 
         width="100%" />
         </picture>
     </a></td>
