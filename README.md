@@ -64,12 +64,12 @@ https://github.com/user-attachments/assets/390833e2-752d-4fc1-b052-ad07dde14344
     <td colspan="6" align="center"><a href="https://github.com/ryo-ma/github-profile-trophy">
       <picture>
         <source
-          srcset="https://github-profile-trophy.vercel.app/?username=LoackyBit&column=7&row=1&margin-w=8&no-bg=true&no-frame=true&theme=onestar"
+          srcset="https://github-profile-trophy-three-mu.vercel.app/?username=LoackyBit&column=7&row=1&margin-w=8&no-bg=true&no-frame=true&theme=onestar"
           media="(prefers-color-scheme: dark)" />
         <source
           srcset="https://github-profile-trophy-three-mu.vercel.app/?username=LoackyBit&column=7&row=1&margin-w=8&no-bg=true&no-frame=true&theme=transparent"
           media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-        <img src="https://github-profile-trophy.vercel.app/?username=LoackyBit&column=7&row=1&margin-w=8&no-bg=true&no-frame=true" width="100%" />
+        <img src="https://github-profile-trophy-three-mu.vercel.app/?username=LoackyBit&column=7&row=1&margin-w=8&no-bg=true&no-frame=true" width="100%" />
       </picture>
     </a></td>
   </tr>
