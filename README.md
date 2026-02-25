@@ -9,8 +9,13 @@
       </div>
       <td colspan="0" align="center">
       
+<details open>
+  <summary>🎵 JavaScript - Hammon</summary>
 
 https://github.com/user-attachments/assets/390833e2-752d-4fc1-b052-ad07dde14344
+</details>
+
+
 
 
   </tr>
