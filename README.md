@@ -102,4 +102,14 @@
         </picture>
     </a></td>
   </tr>
+
+  <!-- Riga 7: Now Playing on Apple Music -->
+  <tr>
+    <td colspan="2" align="center">
+      <a href="https://music.apple.com/it/album/javascript/1874241732?i=1874242703">
+        <img src="https://img.shields.io/badge/🎵%20Now%20Playing-JavaScript%20·%20Hammon-FA2D48?style=for-the-badge&logo=apple&logoColor=white" alt="JavaScript - Hammon on Apple Music" />
+      </a>
+    </td>
+  </tr>
+
 </table>
