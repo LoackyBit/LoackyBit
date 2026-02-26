@@ -4,15 +4,20 @@
     <td colspan="0" align="center">
       <div>
 
-![ARC](https://img.shields.io/badge/Arc-1638FB?style=for-the-badge&logo=Arc&logoColor=white)
-![CLAUDE](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
-![COPILOT](https://img.shields.io/badge/github%20copilot-181818?style=for-the-badge&logo=githubcopilot&logoColor=white)
-![HUGGING FACE](https://img.shields.io/badge/-HuggingFace-f9da25?style=for-the-badge&logo=HuggingFace&logoColor=black)
-![CONDA](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
-![VERCEL](https://img.shields.io/badge/Vercel-181818?style=for-the-badge&logo=vercel&logoColor=white)
-![SUPABASE](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=lime)
-![VS Code Insiders](https://img.shields.io/badge/VS%20Code%20Insiders-181818?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgZmlsbD0iIzIzZDE4YiI%2BPHBhdGggZD0iTTIzLjE1IDIuNTg3TDE4LjIxLjIxYTEuNDk0IDEuNDk0IDAgMCAwLTEuNzA1LjI5bC05LjQ2IDguNjMtNC4xMi0zLjEyOGEuOTk5Ljk5OSAwIDAgMC0xLjI3Ni4wNTdMLjMyNyA3LjI2MUExIDEgMCAwIDAgLjMyNiA4Ljc0TDMuODk5IDEyIC4zMjYgMTUuMjZhMSAxIDAgMCAwIC4wMDEgMS40NzlMMS42NSAxNy45NGEuOTk5Ljk5OSAwIDAgMCAxLjI3Ni4wNTdsNC4xMi0zLjEyOCA5LjQ2IDguNjNhMS40OTIgMS40OTIgMCAwIDAgMS43MDQuMjlsNC45NDItMi4zNzdBMS41IDEuNSAwIDAgMCAyNCAxOS44OFY0LjEyYTEuNSAxLjUgMCAwIDAtLjg1LTEuNTMzem0tNS4xNDYgMTQuODYxTDEwLjgyNiAxMmw3LjE3OC01LjQ0OHYxMC44OTZ6Ii8%2BPC9zdmc%2B)
 ![PYTHON](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![MARKDOWN](https://img.shields.io/badge/Markdown-181818?style=for-the-badge&logo=markdown&logoColor=white)
+![VS Code Insiders](https://img.shields.io/badge/VS%20Code%20Insiders-181818?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgZmlsbD0iIzIzZDE4YiI%2BPHBhdGggZD0iTTIzLjE1IDIuNTg3TDE4LjIxLjIxYTEuNDk0IDEuNDk0IDAgMCAwLTEuNzA1LjI5bC05LjQ2IDguNjMtNC4xMi0zLjEyOGEuOTk5Ljk5OSAwIDAgMC0xLjI3Ni4wNTdMLjMyNyA3LjI2MUExIDEgMCAwIDAgLjMyNiA4Ljc0TDMuODk5IDEyIC4zMjYgMTUuMjZhMSAxIDAgMCAwIC4wMDEgMS40NzlMMS42NSAxNy45NGEuOTk5Ljk5OSAwIDAgMCAxLjI3Ni4wNTdsNC4xMi0zLjEyOCA5LjQ2IDguNjNhMS40OTIgMS40OTIgMCAwIDAgMS43MDQuMjlsNC45NDItMi4zNzdBMS41IDEuNSAwIDAgMCAyNCAxOS44OFY0LjEyYTEuNSAxLjUgMCAwIDAtLjg1LTEuNTMzem0tNS4xNDYgMTQuODYxTDEwLjgyNiAxMmw3LjE3OC01LjQ0OHYxMC44OTZ6Ii8%2BPC9zdmc%2B)
+![SUPABASE](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=lime)
+![VERCEL](https://img.shields.io/badge/Vercel-181818?style=for-the-badge&logo=vercel&logoColor=white)
+![CONDA](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
+![HUGGING FACE](https://img.shields.io/badge/-HuggingFace-f9da25?style=for-the-badge&logo=HuggingFace&logoColor=black)
+![COPILOT](https://img.shields.io/badge/github%20copilot-181818?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![CLAUDE](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![ARC](https://img.shields.io/badge/Arc-1638FB?style=for-the-badge&logo=Arc&logoColor=white)
+![OBSIDIAN](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=Obsidian&logoColor=white)
+![GODOT](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white)
+![FIGMA](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![ARDUINO](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
       <h2 align="center">👋 Hi there, I'm Loacky.</h2>
       </div>
       <td colspan="0" align="center">
