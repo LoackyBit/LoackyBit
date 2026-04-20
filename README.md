@@ -97,12 +97,12 @@ https://github.com/user-attachments/assets/390833e2-752d-4fc1-b052-ad07dde14344
     <td style="width: 50%;" align="center"><a href="https://github.com/LoackyBit">
         <picture>
         <source
-          srcset="loacky-github-repository-contribution-stats.vercel.app/api?username=LoackyBit&limit=5&theme=transparent&hide_border=true&combine_all_yearly_contributions=true"
+          srcset="https://loacky-github-repository-contribution-stats.vercel.app/api?username=LoackyBit&limit=5&theme=transparent&hide_border=true&combine_all_yearly_contributions=true"
           media="(prefers-color-scheme: dark)" />
         <source
-          srcset="loacky-github-repository-contribution-stats.vercel.app/api?username=LoackyBit&limit=5&theme=transparent&combine_all_yearly_contributions=true&hide_border=true"
+          srcset="https://loacky-github-repository-contribution-stats.vercel.app/api?username=LoackyBit&limit=5&theme=transparent&combine_all_yearly_contributions=true&hide_border=true"
           media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-        <img src="loacky-github-repository-contribution-stats.vercel.app/api?username=LoackyBit&limit=5&theme=transparent&combine_all_yearly_contributions=true&hide_border=true" 
+        <img src="https://loacky-github-repository-contribution-stats.vercel.app/api?username=LoackyBit&limit=5&theme=transparent&combine_all_yearly_contributions=true&hide_border=true" 
         width="100%" />
         </picture>
     </a></td>
